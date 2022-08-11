@@ -1,0 +1,11 @@
+.firstsection{
+    height: 50%;
+    height: 50%;
+    display: flex;
+    align-content: space-around;
+    justify-content: flex-end;
+}
+.award{
+    height: 500px;
+}
+

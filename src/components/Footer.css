@@ -1,0 +1,17 @@
+.footer{
+    height: 3rem;
+    background-color: red;
+    margin-top: 2rem;
+    display: flex;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.footer_content{
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+
+}
+.para{
+    margin-left: 20px;
+}
